@@ -52,8 +52,8 @@ Para preenchimento de dados como latitude e longitude (posições cartográficas
 
 ![image](https://github.com/mfre1re/Previsao_de_preco_de_imoveis_Airbnb-Rio_de_Janeiro/assets/88170132/117e3087-8657-4c5e-983e-7c3c13d1b5be)
 
-    - No Google Maps, na localização desejada, basta dar um clique simples e será mostrado o indicador da posição, tal como na imagem, indicado pela seta azul;
-    - Em seguida, basta pegar as posições de latitude e longitude, copiar e colar, respectivamente, mostrados na imagem exemplo, sublinhados pela linha vermelha.
+- <u>No Google Maps, na localização desejada, basta dar um clique simples e será mostrado o indicador da posição, tal como na imagem, indicado pela seta azul</u>;
+- <u>Em seguida, basta pegar as posições de latitude e longitude, copiar e colar, respectivamente, mostrados na imagem exemplo, sublinhados pela linha vermelha</u>.
 
 A Inteligência Artificial nesta ferramenta trabalha utilizando o modelo de ExtraTrees. Nos testes foram trabalhados, além deste modelo, Regressão Linear e Random Forest, sendo o ExtraTrees obtendo a melhor relação com o Coeficiente de Determinação mais elevado e o Erro Quadrático Médio mais baixo.
 
