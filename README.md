@@ -26,6 +26,7 @@ Obs_2: Caso possua o Anaconda no computador, pode utilizar o Jupyter Notebook pr
     pip install pandas
   
   NumPY, usada para cálculos numéricos e arrays multidimensionais:
+  
     pip install numpy
   
   Matplotlib, usada para criação de gráficos de alta qualidade:
