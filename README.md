@@ -15,8 +15,6 @@ O objetivo, com isso, é que o usuário comum que irá alugar seu espaço (ou me
     Python 3.9.13 (ou a versão mais atual)
 - Utilize o Jupyer notebook pelo seu navegador ou instale através do terminal:
     pip install jupyterlab
-  
-Documentação: https://docs.jupyter.org/en/latest/
 
 Obs_1: Importante dizer que o Google Colab também pode ser utilizado como ferramenta
 Obs_2: Caso possua o Anaconda no computador, pode utilizar o Jupyter Notebook presente no Anaconda.
@@ -66,7 +64,31 @@ Caso deseje ENCERRAR a utilização da ferramenta, basta retornar ao terminal e 
 
 Obs.: Pode levar algum tempo para que a informação do valor seja carregado baseado na capacidade de processamento do computador em uso.
 
+## Documentações
+Para maiores informações sobre as ferramentas, bibliotecas e frameworks utilizados, abaixo seguem algumas documentações:
+- PYTHON (última versão estável, pt-BR)
+  https://docs.python.org/pt-br/3/tutorial/
 
+- JUPYTER NOTEBOOK
+  https://docs.jupyter.org/en/latest/
+  
+- PANDAS
+  https://pandas.pydata.org/docs/
+  
+- NUMPY
+  https://numpy.org/doc/
+  
+- MATPLOTLIB
+  https://matplotlib.org/stable/index.html
+
+- SCIKIT-LEARN
+  https://scikit-learn.org/stable/
+
+- PLOTLY
+  https://plotly.com/python/getting-started/
+
+- STREAMLIT
+  https://docs.streamlit.io
 
 
   
