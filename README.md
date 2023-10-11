@@ -40,7 +40,7 @@ As bibliotecas e frameworks utilizados podem ser instaladas através do pip no t
 
 ## Como utilizar?
 1. Baixe os arquivos necessários, já separados, no local de sua escolha;
-2. Extraia o arquivo modelo.rar (o arquivo contém 4.50gb após descompressão);
+2. Extraia o arquivo modelo.rar (o arquivo contém 4.50gb após descompressão), pois ele contém os modelos e recursos essenciais para o projeto;
 3. Em seguida, execute o terminal dentro da pasta baixada ou abra o terminal ou prompt Anaconda, navegue até a pasta que contém os arquivos do modelo;
 4. Digite a seguinte linha:
    streamlit run Deploy_Projeto_Airbnb.py
