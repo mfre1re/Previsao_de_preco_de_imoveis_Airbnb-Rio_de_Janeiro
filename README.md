@@ -21,26 +21,21 @@ Documentação: https://docs.jupyter.org/en/latest/
 Obs_1: Importante dizer que o Google Colab também pode ser utilizado como ferramenta
 Obs_2: Caso possua o Anaconda no computador, pode utilizar o Jupyter Notebook presente no Anaconda.
 
-- As bibliotecas e frameworks utilizados podem ser instaladas através do pip no terminal:
+As bibliotecas e frameworks utilizados podem ser instaladas através do pip no terminal:
+- Pandas, usada para manipulação e análise de dados:
+    pip install pandas
   
-  - Pandas, usada para manipulação e análise de dados:
-     pip install pandas
+- NumPY, usada para cálculos numéricos e arrays multidimensionais:
+    pip install numpy
   
-  - NumPY, usada para cálculos numéricos e arrays multidimensionais:
+- Matplotlib, usada para criação de gráficos de alta qualidade:
+  pip install matplotlib
   
-     pip install numpy
+- Scikit-Learn, usada para aprendizado de máquina em Python: 
+  pip install -U scikit-learn
   
-  - Matplotlib, usada para criação de gráficos de alta qualidade:
-  
-     pip install matplotlib
-  
-  - Scikit-Learn, usada para aprendizado de máquina em Python: 
-  
-     pip install -U scikit-learn
-  
-  - Plotly, usada para visualização interativa e dashboards da web: 
-  
-     pip install plotly
+- Plotly, usada para visualização interativa e dashboards da web: 
+  pip install plotly
   
   Streamlit, usada para criação de aplicativos da web interativos e personalizados para suas análises de dados, com facilidade e rapidez:
   pip install streamlit  
