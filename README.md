@@ -44,7 +44,7 @@ Obs_2: Caso possua o Anaconda no computador, pode utilizar o Jupyter Notebook pr
 ![image](https://github.com/mfre1re/Previsao_de_preco_de_imoveis_Airbnb-Rio_de_Janeiro/assets/88170132/4c358bc0-1574-4cdc-b1f3-ffc2dac7e390)
 
 
-Desta forma será aberta uma tela em seu navegador padrão (como mostrado na figura abaixo) para que possa ser utilizado a ferramenta para previsão de preços. Nesta tele o usuário deverá preencher as métricas dadas, em inglês, baseado nas especificações utilizadas pelo Airbnb e após o preenchimento clicar em "Prever valor do Imóvel", para que seja obtido a previsão do preço imóvel, em REAIS, do local desejado. Vale ressaltar que a região trabalhada foi o Rio de Janeiro.
+Desta forma será aberta uma tela em seu navegador padrão (como mostrado na figura abaixo) para que possa ser utilizado a ferramenta para previsão de preços. Nesta tela o usuário deverá preencher as métricas dadas, em inglês, baseado nas especificações utilizadas pelo Airbnb e após o preenchimento clicar em "Prever valor do Imóvel", para que seja obtido a previsão do preço imóvel, em REAIS, do local desejado. Vale ressaltar que a região trabalhada foi o Rio de Janeiro.
 
 ![image](https://github.com/mfre1re/Previsao_de_preco_de_imoveis_Airbnb-Rio_de_Janeiro/assets/88170132/7aa77da6-1631-4d06-8929-55ee82854ff8)
 
