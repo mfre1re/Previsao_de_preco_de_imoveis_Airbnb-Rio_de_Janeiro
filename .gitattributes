@@ -1,0 +1,2 @@
+dados.csv filter=lfs diff=lfs merge=lfs -text
+modelo.rar filter=lfs diff=lfs merge=lfs -text
